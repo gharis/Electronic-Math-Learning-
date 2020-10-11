@@ -1,4 +1,4 @@
-# Electronic-Learning-
+# Electronic-Learning 
 sites and web links for electronic learning / refreshing theories 
 
 ## electronics-tutorials
@@ -66,7 +66,8 @@ https://www.youtube.com/channel/UCMOgTxgkrWUZ4HUtc-4JwkA
 ## Neso Academy
 https://www.youtube.com/user/nesoacademy
 
-# MAth
+# MATH
+
 ## Krista King
 https://www.youtube.com/channel/UCUDlvPp1MlnegYXOXzj7DEQ
 
