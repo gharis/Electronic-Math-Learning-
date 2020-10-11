@@ -50,3 +50,12 @@ https://www.maximintegrated.com/en/design/technical-documents/index.html
 
 ## texas instruments
 https://training.ti.com/
+
+## electrosome
+https://electrosome.com/
+
+## studentcompanion
+https://www.studentcompanion.co.za/category/tutorials/mikroc-pro-for-pic/
+
+## fpga4fun
+https://www.fpga4fun.com/QuartusQuickStart.html
