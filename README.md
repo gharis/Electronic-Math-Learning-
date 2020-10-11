@@ -4,6 +4,9 @@ sites and web links for electronic learning / refreshing theories
 ## electronics-tutorials
 https://www.electronics-tutorials.ws/
 
+## tutorialspoint
+https://www.tutorialspoint.com/basic_electronics/index.htm
+
 ## engineersgarage
 https://www.engineersgarage.com/
 
