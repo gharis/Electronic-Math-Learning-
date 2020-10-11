@@ -59,3 +59,20 @@ https://www.studentcompanion.co.za/category/tutorials/mikroc-pro-for-pic/
 
 ## fpga4fun
 https://www.fpga4fun.com/QuartusQuickStart.html
+
+## AllAboutEE
+https://www.youtube.com/channel/UCMOgTxgkrWUZ4HUtc-4JwkA
+
+## Neso Academy
+https://www.youtube.com/user/nesoacademy
+
+# MAth
+## Krista King
+https://www.youtube.com/channel/UCUDlvPp1MlnegYXOXzj7DEQ
+
+## Patrik JMT
+https://www.youtube.com/user/patrickJMT
+
+## Khan academy
+https://www.youtube.com/user/khanacademy
+
