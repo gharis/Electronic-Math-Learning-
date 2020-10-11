@@ -64,7 +64,7 @@ https://www.fpga4fun.com/QuartusQuickStart.html
 https://www.youtube.com/channel/UCMOgTxgkrWUZ4HUtc-4JwkA
 
 ## Neso Academy
-https://www.youtube.com/user/nesoacademy
+https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=10
 
 # MATH
 
