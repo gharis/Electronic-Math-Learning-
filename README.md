@@ -28,6 +28,8 @@ https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ
 ## EEVblog
 https://www.youtube.com/channel/UC2DjFE7Xf11URZqWBigcVOQ
 
+https://www.eevblog.com/
+
 ## controleverything
 https://shop.controleverything.com/
 
