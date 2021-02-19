@@ -63,6 +63,9 @@ https://www.fpga4fun.com/QuartusQuickStart.html
 ## AllAboutEE
 https://www.youtube.com/channel/UCMOgTxgkrWUZ4HUtc-4JwkA
 
+## digikey VHDL wiki
+https://www.digikey.com/eewiki/display/LOGIC/Home
+
 ## Neso Academy
 https://www.youtube.com/user/nesoacademy/playlists?view=50&sort=dd&shelf_id=10
 
