@@ -80,3 +80,8 @@ https://www.youtube.com/user/patrickJMT
 ## Khan academy
 https://www.youtube.com/user/khanacademy
 
+## Components101
+https://components101.com/articles?page=0
+
+## sunrom
+https://www.sunrom.com/
