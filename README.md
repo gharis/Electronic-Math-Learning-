@@ -1,6 +1,12 @@
 # Electronic-Learning 
 sites and web links for electronic learning / refreshing theories 
 
+## Components101
+https://components101.com/articles?page=0
+
+## sunrom
+https://www.sunrom.com/
+
 ## electronics-tutorials
 https://www.electronics-tutorials.ws/
 
@@ -80,8 +86,4 @@ https://www.youtube.com/user/patrickJMT
 ## Khan academy
 https://www.youtube.com/user/khanacademy
 
-## Components101
-https://components101.com/articles?page=0
 
-## sunrom
-https://www.sunrom.com/
