@@ -87,3 +87,7 @@ https://www.youtube.com/user/patrickJMT
 https://www.youtube.com/user/khanacademy
 
 
+# Control Systems
+
+## katkimshow
+https://www.youtube.com/playlist?list=PLmK1EnKxphikZ4mmCz2NccSnHZb7v1wV-
